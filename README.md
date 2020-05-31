@@ -1,4 +1,4 @@
-# <img src="img/logo.png" height="100">
+# <img src="img/logo2.png" height="100">
  Quorum sensing gene database for archaea and bacteria, with a focus on microbes related to environmental engineering.
 
 ## Introduction
