@@ -1,4 +1,4 @@
-# ![QSDB](img/logo.png)
+# <img src="img/logo.png" height="100">
  Quorum sensing gene database for archaea and bacteria, with a focus on microbes related to environmental engineering.
 
 ## Introduction
