@@ -17,7 +17,7 @@ QSDB is an integration of curated literatures and current database. We collected
 
 You can simply download the data file that you need from the directory. You can also clone the whole repository by
 ```
-git clone https://github.com/Kevin-Moo/QSDB
+git clone https://github.com/qhmu/QSDB
 ```
 This will download all the folders and files, including the scripts.
 ## Contact
