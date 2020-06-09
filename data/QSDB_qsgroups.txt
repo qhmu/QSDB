@@ -1,133 +1,135 @@
-group	gene	KO	annotation
-AHL	hdtS;  	K00655	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] | (GenBank) putative acylhomoserine lactone synthase
-AHL	pvdQ, quiP; 	K07116	acyl-homoserine-lactone acylase [EC:3.5.1.97]
-AHL	sdiA	K07782	 LuxR family transcriptional regulator, quorum-sensing system regulator SdiA
-AHL	hapR, luxR, litR	K10913	 TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein
-AHL	cqsA	K10915	 CAI-1 autoinducer synthase [EC:2.3.-.-]
-AHL	cqsS	K10916	 two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS [EC:2.7.13.3 3.1.3.-]
-AHL	lasI,luxl	K13060	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	rhlI, phzI, solI, cepI, tofI	K13061	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	ainS, luxM	K13062	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	ahlD, aiiA, attM, blcC	K13075	 N-acyl homoserine lactone hydrolase [EC:3.1.1.81]
-AHL	luxN	K15850	 two-component system, autoinducer 1 sensor kinase/phosphatase LuxN [EC:2.7.13.3 3.1.3.-]
-AHL	luxR, vanR	K15852	 LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon
-AHL	bjaI, rpaI, braI, rhiI	K18096	 acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]
-AHL	bjaR1, rpaR, rhiR	K18098	 LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1
-AHL	rhlR, phzR	K18099	 LuxR family transcriptional regulator, quorum-sensing system regulator RhlR
-AHL	lasR	K18304	 LuxR family transcriptional regulator, quorum-sensing system regulator LasR
-AHL	solR, cepR, tofR	K19666	 LuxR family transcriptional regulator, quorum-sensing system regulator SolR
-AHL	cciR	K19731	 LuxR family transcriptional regulator, quorum-sensing system regulator CciR
-AHL	sinR, raiR, avsR	K19733	 LuxR family transcriptional regulator, quorum-sensing system regulator SinR
-AHL	expR	K19734	 LuxR family transcriptional regulator, quorum-sensing system regulator ExpR
-AHL	mvfR, pqsR	K19735	 LysR family transcriptional regulator, quorum-sensing system regulator MvfR
-AHL	cinI	K20248	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	raiI;cciI	K20249	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	cciI	K20250	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	cinR	K20252	 LuxR family transcriptional regulator, quorum-sensing system regulator CinR
-AHL	bisR	K20253	 LuxR family transcriptional regulator, quorum-sensing system regulator BisR
-AHL	fusK	K20263	 two-component system, NarL family, sensor histidine kinase FusK [EC:2.7.13.3]
-AHL	cviR	K20334	 LuxR family transcriptional regulator, quorum-sensing system regulator CviR
-AHL	cepR2; vjbR; 	K20540	 LuxR family transcriptional regulator, quorum-sensing system regulator CepR2
-AHL	luxI	K22954	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	traI, avsI	K22955	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	expI, esaI	K22956	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AHL	cviI	K22957	 acyl homoserine lactone synthase [EC:2.3.1.184]
-AI2	luxS	K07173	 S-ribosylhomocysteine lyase [EC:4.4.1.21]
-AI2	lsrB	K10555	 AI-2 transport system substrate-binding protein
-AI2	lsrC	K10556	 AI-2 transport system permease protein
-AI2	lsrD	K10557	 AI-2 transport system permease protein
-AI2	lsrA, ego	K10558	 AI-2 transport system ATP-binding protein
-AI2	luxQ	K10909	 two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ [EC:2.7.13.3 3.1.3.-]
-AI2	luxP	K10910	 autoinducer 2-binding periplasmic protein LuxP
-AI2	lsrK	K11216	 autoinducer-2 kinase [EC:2.7.1.189]
-AI2	lsrG	K11530	 (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase [EC:5.3.1.32]
-AI2	lsrR	K11531	 lsr operon transcriptional repressor
-AIP	lepB	K03100	lepB; signal peptidase I [EC:3.4.21.89]
-AIP	agrC, blpH, fsrC	K07706	 two-component system, LytTR family, sensor histidine kinase AgrC [EC:2.7.13.3]
-AIP	agrA, blpR, fsrA	K07707	 two-component system, LytTR family, response regulator AgrA
-AIP	agrD	K07800	 AgrD protein
-AIP	agrB	K07813	 accessory gene regulator B
-AIP	agrC2	K20339	 two-component system, LytTR family, sensor histidine kinase AgrC2 [EC:2.7.13.3]
-AIP	agrA2	K20340	 two-component system, LytTR family, response regulator AgrA2
-Streptococcus	blpC	K20343	 peptide pheromone BlpC
-Streptococcus	blpA, lagD	K20344	 ATP-binding cassette, subfamily C, bacteriocin exporter
-Streptococcus	blpB	K20345	 membrane fusion protein, peptide pheromone/bacteriocin exporter
-EF	cad	K20379	 sex pheromone cAD1
-cdiGMP	PDE	K07181	cdgJ; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	DGC	K13069	E2.7.7.65; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	PDE	K13243	dos; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
-cdiGMP	PDE	K13244	yahA; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
-cdiGMP	PDE	K13245	pdeA; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
-cdiGMP	PDE	K13246	vieA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	DGC	K13590	dgcB; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	PDE	K13593	tipF; cyclic-di-GMP phosphodiesterase, flagellum assembly factor TipF
-cdiGMP	gmr,PDE	K14051	 c-di-GMP phosphodiesterase Gmr [EC:3.1.4.52]
-cdiGMP	DGC	K18967	dge1; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K18968	adrA; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20954	acgB; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20955	cdgK; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20956	cdgA; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20957	cdgH; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20958	cdgL; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20959	cdgM; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20960	K20960; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K20961	vpvC; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	PDE	K20962	cdgC; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	PDE	K20963	acgA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	PDE	K20964	cdpA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	PDE	K20965	rocS; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	PDE	K20966	mbaA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	DGC	K21019	sadC; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K21020	siaD; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K21021	tpbB; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K21022	roeA; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K21023	mucR; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	PDE	K21024	bifA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	DGC	K21084	yegE; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	DGC	K21085	yedQ; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	PDE	K21086	yhjH; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-cdiGMP	DGC	K21088	ydaM; diguanylate cyclase [EC:2.7.7.65]
-cdiGMP	PDE	K21090	adrB; c-di-GMP phosphodiesterase [EC:3.1.4.52]
-Bacillus	comQ	K02251	 competence protein ComQ
-Bacillus	comX	K02253	 competence protein ComX
-Streptococcus	comA	K12292	 ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein [EC:3.4.22.-]
-Streptococcus	comB	K12293	 competence factor transport accessory protein ComB
-Streptococcus	comD	K12294	 two-component system, LytTR family, sensor histidine kinase ComD [EC:2.7.13.3]
-Streptococcus	comC	K12415	 competence-stimulating peptide
-EF	cylLL	K20383	 CylL-L protein
-EF	cylM	K20385	 CylM protein
-EF	cylB	K20386	 ATP-binding cassette, subfamily B, bacterial CylB
-EF	cylR1	K20387	 regulatory protein CylR1
-EF	cylLS	K20384	 CylL-S protein
-DSF	rpfC	K10715	 two-component system, sensor histidine kinase RpfC [EC:2.7.13.3]
-DSF	rpfG	K13815	 two-component system, response regulator RpfG
-DSF	rpfF	K13816	 DSF synthase
-DSF	rpfB;	K21688	 resuscitation-promoting factor RpfB
-EF	iad1	K20378	 sex pheromone inhibitor iAD1
-EF	prgQ	K20376	 peptide inhibitor iCF10
-Others	nisA, spaS, epiA	K20482	 lantibiotic bacteriocin
-Others	nisB, spaB, epiB	K20483	 lantibiotic biosynthesis protein
-Others	nisC, spaC, epiC	K20484	 lantibiotic biosynthesis protein
-Others	nisT, spaT	K20485	 ATP-binding cassette, subfamily B, bacterial NisT
-Others	nisP, epiP	K20486	 lantibiotic leader peptide-processing serine protease [EC:3.4.21.-]
-Others	nisK, spaK	K20487	 two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK [EC:2.7.13.3]
-Bacillus	nprB	K08777	 neutral peptidase B [EC:3.4.24.-]
-Bacillus	phrA	K06352	 phosphatase RapA inhibitor
-Bacillus	phrC	K06353	 phosphatase RapC regulator
-Bacillus	phrE	K06354	 phosphatase RapE regulator
-Bacillus	phrF	K06355	 phosphatase RapF regulator
-Bacillus	phrG	K06356	 phosphatase RapG regulator
-Bacillus	phrK	K06358	 phosphatase RapK regulator
-Bacillus	phrH	K20389	 phosphatase RapH regulator
-Bacillus	secDF	K12257	 SecD/SecF fusion protein
-PQS	phnB	K04750	phnB; PhnB protein; PQS synthesis
-PQS	phnA	K06193	phnA; protein PhnA; PQS synthesis
-PQS	pqsH	K17940	 2-heptyl-3-hydroxy-4(1H)-quinolone synthase [EC:1.14.13.182]
-PQS	pqsA	K18000	 anthranilate-CoA ligase [EC:6.2.1.32]
-PQS	pqsB	K18001	 2-heptyl-4(1H)-quinolone synthase subunit PqsB [EC:2.3.1.230]
-PQS	pqsC	K18002	 2-heptyl-4(1H)-quinolone synthase subunit PqsC [EC:2.3.1.230]
-PQS	pqsD	K18003	 anthraniloyl-CoA anthraniloyltransferase [EC:2.3.1.262]
-PQS	pqsL	K18004	pqsL; HQNO biosynthesis monooxygenase PqsL
-PQS	pqsR	K19735	mvfR, pqsR; LysR family transcriptional regulator, quorum-sensing system regulator MvfR
-PQS	pqsE	K20257	 2-aminobenzoylacetyl-CoA thioesterase [EC:3.1.2.32]
-Streptococcus	oppA, mppA	K15580	 oligopeptide transport system substrate-binding protein
+group	KO	gene	Function	annotation
+AHL	NA	filI	Synthesis	AHL synthase
+AHL	NA	filR	Receptor	Transcriptional activator
+AHL	K00655	hdtS;  	Synthesis	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] | (GenBank) putative acylhomoserine lactone synthase
+AHL	K07116	pvdQ, quiP; 	Quenching	acyl-homoserine-lactone acylase [EC:3.5.1.97]
+AHL	K07782	sdiA	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator SdiA
+AHL	K10913	hapR, luxR, litR	Receptor	 TetR/AcrR family transcriptional regulator, hemagglutinin/protease regulatory protein
+AHL	K10915	cqsA	Synthesis	 CAI-1 autoinducer synthase [EC:2.3.-.-]
+AHL	K10916	cqsS	Receptor	 two-component system, CAI-1 autoinducer sensor kinase/phosphatase CqsS [EC:2.7.13.3 3.1.3.-]
+AHL	K13060	lasI,luxl	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K13061	rhlI, phzI, solI, cepI, tofI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K13062	ainS, luxM	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K13075	ahlD, aiiA, attM, blcC	Quenching	 N-acyl homoserine lactone hydrolase [EC:3.1.1.81]
+AHL	K15850	luxN	Receptor	 two-component system, autoinducer 1 sensor kinase/phosphatase LuxN [EC:2.7.13.3 3.1.3.-]
+AHL	K15852	luxR, vanR	Receptor	 LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon
+AHL	K18096	bjaI, rpaI, braI, rhiI	Synthesis	 acyl-homoserine lactone synthase [EC:2.3.1.228 2.3.1.229 2.3.1.-]
+AHL	K18098	bjaR1, rpaR, rhiR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator BjaR1
+AHL	K18099	rhlR, phzR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator RhlR
+AHL	K18304	lasR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator LasR
+AHL	K19666	solR, cepR, tofR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator SolR
+AHL	K19731	cciR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator CciR
+AHL	K19733	sinR, raiR, avsR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator SinR
+AHL	K19734	expR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator ExpR
+AHL	K19735	mvfR, pqsR	Receptor	 LysR family transcriptional regulator, quorum-sensing system regulator MvfR
+AHL	K20248	cinI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K20249	raiI;cciI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K20250	cciI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K20252	cinR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator CinR
+AHL	K20253	bisR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator BisR
+AHL	K20263	fusK	Receptor	 two-component system, NarL family, sensor histidine kinase FusK [EC:2.7.13.3]
+AHL	K20334	cviR	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator CviR
+AHL	K20540	cepR2; vjbR; 	Receptor	 LuxR family transcriptional regulator, quorum-sensing system regulator CepR2
+AHL	K22954	luxI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K22955	traI, avsI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K22956	expI, esaI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AHL	K22957	cviI	Synthesis	 acyl homoserine lactone synthase [EC:2.3.1.184]
+AI2	K07173	luxS	Synthesis	 S-ribosylhomocysteine lyase [EC:4.4.1.21]
+AI2	K10555	lsrB	Receptor	 AI-2 transport system substrate-binding protein
+AI2	K10556	lsrC	Receptor	 AI-2 transport system permease protein
+AI2	K10557	lsrD	Receptor	 AI-2 transport system permease protein
+AI2	K10558	lsrA, ego	Receptor	 AI-2 transport system ATP-binding protein
+AI2	K10909	luxQ	Receptor	 two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ [EC:2.7.13.3 3.1.3.-]
+AI2	K10910	luxP	Receptor	 autoinducer 2-binding periplasmic protein LuxP
+AI2	K11216	lsrK	Receptor	 autoinducer-2 kinase [EC:2.7.1.189]
+AI2	K11530	lsrG	Quenching	 (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase [EC:5.3.1.32]
+AI2	K11531	lsrR	Quenching	 lsr operon transcriptional repressor
+AIP	K03100	lepB	Synthesis	lepB; signal peptidase I [EC:3.4.21.89]
+AIP	K07706	agrC, blpH, fsrC	Receptor	 two-component system, LytTR family, sensor histidine kinase AgrC [EC:2.7.13.3]
+AIP	K07707	agrA, blpR, fsrA	Receptor	 two-component system, LytTR family, response regulator AgrA
+AIP	K07800	agrD	Synthesis	 AgrD protein
+AIP	K07813	agrB	Synthesis	 accessory gene regulator B
+AIP	K20339	agrC2	Receptor	 two-component system, LytTR family, sensor histidine kinase AgrC2 [EC:2.7.13.3]
+AIP	K20340	agrA2	Receptor	 two-component system, LytTR family, response regulator AgrA2
+Others	K20343	blpC	Synthesis	 peptide pheromone BlpC
+Others	K20344	blpA, lagD	Synthesis	 ATP-binding cassette, subfamily C, bacteriocin exporter
+Others	K20345	blpB	Quenching	 membrane fusion protein, peptide pheromone/bacteriocin exporter
+Others	K20379	cad	Synthesis	 sex pheromone cAD1
+cdiGMP	K07181	PDE	Quenching	cdgJ; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K13069	DGC	Synthesis	E2.7.7.65; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K13243	PDE	Quenching	dos; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K13244	PDE	Quenching	yahA; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K13245	PDE	Quenching	pdeA; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K13246	PDE	Quenching	vieA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K13590	DGC	Synthesis	dgcB; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K13593	PDE	Quenching	tipF; cyclic-di-GMP phosphodiesterase, flagellum assembly factor TipF
+cdiGMP	K14051	gmr,PDE	Quenching	 c-di-GMP phosphodiesterase Gmr [EC:3.1.4.52]
+cdiGMP	K18967	DGC	Synthesis	dge1; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K18968	DGC	Synthesis	adrA; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20954	DGC	Synthesis	acgB; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20955	DGC	Synthesis	cdgK; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20956	DGC	Synthesis	cdgA; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20957	DGC	Synthesis	cdgH; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20958	DGC	Synthesis	cdgL; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20959	DGC	Synthesis	cdgM; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20960	DGC	Synthesis	K20960; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20961	DGC	Synthesis	vpvC; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K20962	PDE	Quenching	cdgC; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K20963	PDE	Quenching	acgA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K20964	PDE	Quenching	cdpA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K20965	PDE	Quenching	rocS; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K20966	PDE	Quenching	mbaA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K21019	DGC	Synthesis	sadC; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21020	DGC	Synthesis	siaD; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21021	DGC	Synthesis	tpbB; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21022	DGC	Synthesis	roeA; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21023	DGC	Synthesis	mucR; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21024	PDE	Quenching	bifA; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K21084	DGC	Synthesis	yegE; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21085	DGC	Synthesis	yedQ; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21086	PDE	Quenching	yhjH; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+cdiGMP	K21088	DGC	Synthesis	ydaM; diguanylate cyclase [EC:2.7.7.65]
+cdiGMP	K21090	PDE	Quenching	adrB; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+Others	K02251	comQ	Synthesis	 competence protein ComQ
+Others	K02253	comX	Synthesis	 competence protein ComX
+Others	K12292	comA	Synthesis	 ATP-binding cassette, subfamily C, bacterial, competence factor transporting protein [EC:3.4.22.-]
+Others	K12293	comB	Synthesis	 competence factor transport accessory protein ComB
+Others	K12294	comD	Receptor	 two-component system, LytTR family, sensor histidine kinase ComD [EC:2.7.13.3]
+Others	K12415	comC	Synthesis	 competence-stimulating peptide
+Others	K20383	cylLL	Synthesis	 CylL-L protein
+Others	K20385	cylM	Synthesis	 CylM protein
+Others	K20386	cylB	Synthesis	 ATP-binding cassette, subfamily B, bacterial CylB
+Others	K20387	cylR1	Receptor	 regulatory protein CylR1
+Others	K20384	cylLS	Synthesis	 CylL-S protein
+DSF	K10715	rpfC	Receptor	 two-component system, sensor histidine kinase RpfC [EC:2.7.13.3]
+DSF	K13815	rpfG	Receptor	 two-component system, response regulator RpfG
+DSF	K13816	rpfF	Synthesis	 DSF synthase
+DSF	K21688	rpfB;	Synthesis	 resuscitation-promoting factor RpfB
+Others	K20378	iad1	Synthesis	 sex pheromone inhibitor iAD1
+Others	K20376	prgQ	Synthesis	 peptide inhibitor iCF10
+Others	K20482	nisA, spaS, epiA	Synthesis	 lantibiotic bacteriocin
+Others	K20483	nisB, spaB, epiB	Synthesis	 lantibiotic biosynthesis protein
+Others	K20484	nisC, spaC, epiC	Synthesis	 lantibiotic biosynthesis protein
+Others	K20485	nisT, spaT	Synthesis	 ATP-binding cassette, subfamily B, bacterial NisT
+Others	K20486	nisP, epiP	Synthesis	 lantibiotic leader peptide-processing serine protease [EC:3.4.21.-]
+Others	K20487	nisK, spaK	Receptor	 two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK [EC:2.7.13.3]
+Others	K08777	nprB	Synthesis	 neutral peptidase B [EC:3.4.24.-]
+Others	K06352	phrA	Synthesis	 phosphatase RapA inhibitor
+Others	K06353	phrC	Synthesis	 phosphatase RapC regulator
+Others	K06354	phrE	Synthesis	 phosphatase RapE regulator
+Others	K06355	phrF	Synthesis	 phosphatase RapF regulator
+Others	K06356	phrG	Synthesis	 phosphatase RapG regulator
+Others	K06358	phrK	Synthesis	 phosphatase RapK regulator
+Others	K20389	phrH	Synthesis	 phosphatase RapH regulator
+Others	K12257	secDF	Synthesis	 SecD/SecF fusion protein
+PQS	K04750	phnB	Synthesis	phnB; PhnB protein; PQS synthesis
+PQS	K06193	phnA	Synthesis	phnA; protein PhnA; PQS synthesis
+PQS	K17940	pqsH	Synthesis	 2-heptyl-3-hydroxy-4(1H)-quinolone synthase [EC:1.14.13.182]
+PQS	K18000	pqsA	Synthesis	 anthranilate-CoA ligase [EC:6.2.1.32]
+PQS	K18001	pqsB	Synthesis	 2-heptyl-4(1H)-quinolone synthase subunit PqsB [EC:2.3.1.230]
+PQS	K18002	pqsC	Synthesis	 2-heptyl-4(1H)-quinolone synthase subunit PqsC [EC:2.3.1.230]
+PQS	K18003	pqsD	Synthesis	 anthraniloyl-CoA anthraniloyltransferase [EC:2.3.1.262]
+PQS	K18004	pqsL	Receptor	pqsL; HQNO biosynthesis monooxygenase PqsL
+PQS	K19735	pqsR	Receptor	mvfR, pqsR; LysR family transcriptional regulator, quorum-sensing system regulator MvfR
+PQS	K20257	pqsE	Synthesis	 2-aminobenzoylacetyl-CoA thioesterase [EC:3.1.2.32]
+Others	K15580	oppA, mppA	Receptor	 oligopeptide transport system substrate-binding protein
