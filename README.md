@@ -22,3 +22,11 @@ git clone https://github.com/qhmu/QSDB
 This will download all the folders and files, including the scripts.
 ## Contact
 Your comments and input are highly welcomed! For any technical issues or questions please contact laomunker@gmail.com.
+
+## Citation
+If you have used the QSDB database in your research, please cite our publication:
+
+```
+Du, Q., Mu, Q., & Wu, G. (2021). Metagenomic and bioanalytical insights into quorum sensing of methanogens in anaerobic digestion systems with or without the addition of conductive filter. Science of the Total Environment, 763, 144509. DOI: https://doi.org/10.1016/j.scitotenv.2020.144509
+```
+
