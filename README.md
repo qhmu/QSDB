@@ -1,5 +1,5 @@
 # <img src="img/logo2.png" height="100">
- Quorum sensing gene database for archaea and bacteria, with a focus on microbes related to environmental engineering.
+ Quorum sensing gene database for archaea and bacteria, with a focus on microbes related to environmental engineering. The database is published in [Du et al, 2020](https://doi.org/10.1016/j.scitotenv.2020.144509)
 
 ## Introduction
 
